@@ -1,7 +1,7 @@
 {
-  "versionName": "1.0.2",
-  "versionCode": 102,
+  "versionName": "1.0.3",
+  "versionCode": 103,
   "releaseNotes": "",
-  "downloadUrl": "https://github.com/MrLicketySplit/kyvexis-ccb-updates/releases/download/v1.0.2/KyVexisCCB-1.0.2.apk",
-  "apkSha256": "ce631d9cac60412cf831a73535f06ff32f6689eab9b7bd694fe5a9a0a6e0366a"
+  "downloadUrl": "https://raw.githubusercontent.com/MrLicketySplit/kyvexis-ccb-updates/main/ccb/KyVexisCCB-1.0.3.apk",
+  "apkSha256": "765a5d0d09b36aa8bb50176017b332f29f1c5b90af9ea4397ba3cab8e4f61e9c"
 }
