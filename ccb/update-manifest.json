@@ -1,7 +1,7 @@
 {
-    "versionName":  "1.0.7",
-    "versionCode":  7,
-    "releaseNotes":  "retention-test-1.0.7: hide completed checkbox on Add reminder; E2E contact retention",
-    "downloadUrl":  "https://raw.githubusercontent.com/MrLicketySplit/kyvexis-ccb-updates/main/ccb/KyVexisCCB-1.0.7.apk",
-    "apkSha256":  "1c753f4ba697e7b1afb47b1c331da6f8916238437f06635d110da4fc04c04eda"
+  "versionName": "1.1.0",
+  "versionCode": 110,
+  "releaseNotes": "",
+  "downloadUrl": "https://raw.githubusercontent.com/MrLicketySplit/kyvexis-ccb-updates/main/ccb/KyVexisCCB-1.1.0.apk",
+  "apkSha256": "c98462215f4806822d8c725dd83caf8cb3fb2d500560db9eac100ce11022315f"
 }
