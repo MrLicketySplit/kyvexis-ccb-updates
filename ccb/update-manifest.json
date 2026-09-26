@@ -1,7 +1,7 @@
 {
-    "releaseNotes":  "Repair: align public versionCode with gradle 1.0.6 (6); previous remote incorrectly used 106.",
-    "apkSha256":  "f19e483125361ffaf5c5cc6af6176da0917f38d31b15b4212da05e21d5123fdd",
-    "versionCode":  6,
-    "versionName":  "1.0.6",
-    "downloadUrl":  "https://github.com/MrLicketySplit/kyvexis-ccb-updates/releases/download/v1.0.6/KyVexisCCB-1.0.6.apk"
+    "versionName":  "1.0.7",
+    "versionCode":  7,
+    "releaseNotes":  "retention-test-1.0.7: hide completed checkbox on Add reminder; E2E contact retention",
+    "downloadUrl":  "https://raw.githubusercontent.com/MrLicketySplit/kyvexis-ccb-updates/main/ccb/KyVexisCCB-1.0.7.apk",
+    "apkSha256":  "1c753f4ba697e7b1afb47b1c331da6f8916238437f06635d110da4fc04c04eda"
 }
