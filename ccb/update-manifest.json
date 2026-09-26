@@ -1,7 +1,7 @@
-{
-  "versionName": "1.0.6",
-  "versionCode": 106,
-  "releaseNotes": "",
-  "downloadUrl": "https://github.com/MrLicketySplit/kyvexis-ccb-updates/releases/download/v1.0.6/KyVexisCCB-1.0.6.apk",
-  "apkSha256": "42a0b8e8f07d8e17c15a19a121d7040e54d8d222e112ff2240c79604e8a1b59f"
+﻿{
+    "versionName":  "1.0.6",
+    "versionCode":  6,
+    "releaseNotes":  "Repair: align public versionCode with gradle 1.0.6 (6); previous remote incorrectly used 106.",
+    "downloadUrl":  "https://raw.githubusercontent.com/MrLicketySplit/kyvexis-ccb-updates/main/ccb/KyVexisCCB-1.0.6.apk",
+    "apkSha256":  "f19e483125361ffaf5c5cc6af6176da0917f38d31b15b4212da05e21d5123fdd"
 }
