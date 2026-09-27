@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.0",
-  "versionCode": 110,
-  "releaseNotes": "",
-  "downloadUrl": "https://github.com/MrLicketySplit/kyvexis-ccb-updates/releases/download/v1.1.0/KyVexisCCB-1.1.0.apk",
-  "apkSha256": "c98462215f4806822d8c725dd83caf8cb3fb2d500560db9eac100ce11022315f"
+  "versionName": "1.1.1",
+  "versionCode": 111,
+  "releaseNotes": "Added PIN/Biometric application auth",
+  "downloadUrl": "https://raw.githubusercontent.com/MrLicketySplit/kyvexis-ccb-updates/main/ccb/KyVexisCCB-1.1.1.apk",
+  "apkSha256": "ae4256d61fa9566ddd4fd85ebb874c2c4cb316ffe70e173f3044dc852a66cf97"
 }
