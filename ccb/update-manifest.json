@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.5",
-  "versionCode": 13,
-  "releaseNotes": "",
-  "downloadUrl": "https://github.com/MrLicketySplit/kyvexis-ccb-updates/releases/download/v1.1.5/KyVexisCCB-1.1.5.apk",
-  "apkSha256": "48836d116440a4ed6e3da422f9577710428bf017a79c745c860f73299d87c9f0"
+  "versionName": "1.1.6",
+  "versionCode": 14,
+  "releaseNotes": "Exact alarm reminders and app lock persistence across updates",
+  "downloadUrl": "https://raw.githubusercontent.com/MrLicketySplit/kyvexis-ccb-updates/main/ccb/KyVexisCCB-1.1.6.apk",
+  "apkSha256": "4f6adbcf76b241c9474cf7f2f08a14b82f587e0229602974a38ab3d94793e979"
 }
