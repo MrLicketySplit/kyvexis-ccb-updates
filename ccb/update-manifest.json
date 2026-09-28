@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.3",
-  "versionCode": 113,
-  "releaseNotes": "widget polish",
-  "downloadUrl": "https://github.com/MrLicketySplit/kyvexis-ccb-updates/releases/download/v1.1.3/KyVexisCCB-1.1.3.apk",
-  "apkSha256": "2ae3c59480922318384c1473c702dfe3b2e91f23cf55d93d24c202d185930e68"
+  "versionName": "1.1.4",
+  "versionCode": 114,
+  "releaseNotes": "widget hotfix",
+  "downloadUrl": "https://raw.githubusercontent.com/MrLicketySplit/kyvexis-ccb-updates/main/ccb/KyVexisCCB-1.1.4.apk",
+  "apkSha256": "2b7c6ee099c55250a2d481533ffed1d3d41a4a92e2c9681478ee1672ecde7891"
 }
