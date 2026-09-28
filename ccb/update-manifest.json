@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.6",
-  "versionCode": 14,
-  "releaseNotes": "Exact alarm reminders and app lock persistence across updates",
-  "downloadUrl": "https://github.com/MrLicketySplit/kyvexis-ccb-updates/releases/download/v1.1.6/KyVexisCCB-1.1.6.apk",
-  "apkSha256": "4f6adbcf76b241c9474cf7f2f08a14b82f587e0229602974a38ab3d94793e979"
+  "versionName": "2.0.0",
+  "versionCode": 15,
+  "releaseNotes": "Soft-lock: archive and delete require biometric/PIN when app lock is on. versionName MAJOR.FEATURE.FIX → 2.0.0 (versionCode 15).",
+  "downloadUrl": "https://raw.githubusercontent.com/MrLicketySplit/kyvexis-ccb-updates/main/ccb/KyVexisCCB-2.0.0.apk",
+  "apkSha256": "cb1ce28792a3ca8463a3b2af8f8e2eaa25bf34692275f986a0a2592b5c25ca45"
 }
