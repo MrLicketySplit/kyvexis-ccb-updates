@@ -2,6 +2,6 @@
     "versionName":  "1.1.5",
     "versionCode":  13,
     "releaseNotes":  "1.1.5: hash-primary update detection, download progress UI, clean in-place install",
-    "downloadUrl":  "https://raw.githubusercontent.com/MrLicketySplit/kyvexis-ccb-updates/main/ccb/KyVexisCCB-1.1.5.apk",
+    "downloadUrl":  "https://github.com/MrLicketySplit/kyvexis-ccb-updates/releases/download/v1.1.5/KyVexisCCB-1.1.5.apk",
     "apkSha256":  "6691025f6b485856a763aca4a5a3ac8f8f82b10ca7c91b0b2a1267a31f721e9d"
 }
