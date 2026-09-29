@@ -2,6 +2,6 @@
   "versionName": "2.0.2",
   "versionCode": 17,
   "releaseNotes": "Stop reminder alarm sound after 30 minutes.",
-  "downloadUrl": "https://raw.githubusercontent.com/MrLicketySplit/kyvexis-ccb-updates/main/ccb/KyVexisCCB-2.0.2.apk",
+  "downloadUrl": "https://github.com/MrLicketySplit/kyvexis-ccb-updates/releases/download/v2.0.2/KyVexisCCB-2.0.2.apk",
   "apkSha256": "b8ce5d1e2faed5dfe3f3e0365383a93980bced8985a2ab30d1c62047db2592f1"
 }
