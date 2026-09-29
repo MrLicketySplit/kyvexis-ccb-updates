@@ -1,7 +1,7 @@
 {
-  "versionName": "2.0.1",
-  "versionCode": 16,
-  "releaseNotes": "Fix update-channel signing: publish com.kyvexis.ccb release APKs with shared local-test key so install-over works (2.0.1 / 16).",
-  "downloadUrl": "https://github.com/MrLicketySplit/kyvexis-ccb-updates/releases/download/v2.0.1/KyVexisCCB-2.0.1.apk",
-  "apkSha256": "f55721d259bbd3f44b52c47502867b13ae9317723ede10fbfaf0bad3c6001b7f"
+  "versionName": "2.0.2",
+  "versionCode": 17,
+  "releaseNotes": "Stop reminder alarm sound after 30 minutes.",
+  "downloadUrl": "https://raw.githubusercontent.com/MrLicketySplit/kyvexis-ccb-updates/main/ccb/KyVexisCCB-2.0.2.apk",
+  "apkSha256": "b8ce5d1e2faed5dfe3f3e0365383a93980bced8985a2ab30d1c62047db2592f1"
 }
