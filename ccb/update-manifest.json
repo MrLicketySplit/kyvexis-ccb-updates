@@ -2,6 +2,6 @@
   "versionName": "2.0.1",
   "versionCode": 16,
   "releaseNotes": "Fix update-channel signing: publish com.kyvexis.ccb release APKs with shared local-test key so install-over works (2.0.1 / 16).",
-  "downloadUrl": "https://raw.githubusercontent.com/MrLicketySplit/kyvexis-ccb-updates/main/ccb/KyVexisCCB-2.0.1.apk",
+  "downloadUrl": "https://github.com/MrLicketySplit/kyvexis-ccb-updates/releases/download/v2.0.1/KyVexisCCB-2.0.1.apk",
   "apkSha256": "f55721d259bbd3f44b52c47502867b13ae9317723ede10fbfaf0bad3c6001b7f"
 }
