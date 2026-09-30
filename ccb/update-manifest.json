@@ -1,7 +1,7 @@
 {
-  "versionName": "2.1.1",
-  "versionCode": 19,
-  "releaseNotes": "Settings copy cleanup for 2.1.1; remove AI-looking helper text.",
-  "downloadUrl": "https://github.com/MrLicketySplit/kyvexis-ccb-updates/releases/download/v2.1.1/KyVexisCCB-2.1.1.apk",
-  "apkSha256": "16636a8fbf6c4aff9eb6df58e4c54eb33b9f5ca9abc45543bbc87be087249717"
+  "versionName": "2.1.2",
+  "versionCode": 20,
+  "releaseNotes": "Backup vs Restore mode split; Android 16 sideload install guidance.",
+  "downloadUrl": "https://raw.githubusercontent.com/MrLicketySplit/kyvexis-ccb-updates/main/ccb/KyVexisCCB-2.1.2.apk",
+  "apkSha256": "fb2bd87f99bc7a5e069f7fce56026d837017c9eb7310e4701d401b7be1239ece"
 }
