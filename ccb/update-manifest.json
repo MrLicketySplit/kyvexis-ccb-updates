@@ -2,6 +2,6 @@
   "versionName": "2.1.3",
   "versionCode": 21,
   "releaseNotes": "Sideload hardening: APK Signature Scheme v3 + explicit 16KB JNI packaging; fresh-install docs (not signing-conflict). Retry on Android 16.",
-  "downloadUrl": "https://raw.githubusercontent.com/MrLicketySplit/kyvexis-ccb-updates/main/ccb/KyVexisCCB-2.1.3.apk",
+  "downloadUrl": "https://github.com/MrLicketySplit/kyvexis-ccb-updates/releases/download/v2.1.3/KyVexisCCB-2.1.3.apk",
   "apkSha256": "a8648282d18e6fba836621cb9d7277cb6b87de78c88ef7672e7997a632638e5d"
 }
