@@ -1,7 +1,7 @@
 {
-  "versionName": "2.1.0",
-  "versionCode": 18,
-  "releaseNotes": "Download then Install update flow: Settings downloads and verifies the APK first; Install starts PackageInstaller only after user confirmation.",
-  "downloadUrl": "https://github.com/MrLicketySplit/kyvexis-ccb-updates/releases/download/v2.1.0/KyVexisCCB-2.1.0.apk",
-  "apkSha256": "3dfc757aabe840b92e65252360311a85da82a1dbec8ab07922407badf7908d95"
+  "versionName": "2.1.1",
+  "versionCode": 19,
+  "releaseNotes": "Settings copy cleanup for 2.1.1; remove AI-looking helper text.",
+  "downloadUrl": "https://raw.githubusercontent.com/MrLicketySplit/kyvexis-ccb-updates/main/ccb/KyVexisCCB-2.1.1.apk",
+  "apkSha256": "16636a8fbf6c4aff9eb6df58e4c54eb33b9f5ca9abc45543bbc87be087249717"
 }
